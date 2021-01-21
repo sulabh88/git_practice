@@ -4,3 +4,6 @@ for teaching git concepts
 ##master chages now
 
 #master again changed
+
+
+#chnamges for conflict
