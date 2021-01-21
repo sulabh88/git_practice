@@ -2,4 +2,5 @@
 #test1 changes 
 for teaching git concepts 
 
-my conflict
+
+
